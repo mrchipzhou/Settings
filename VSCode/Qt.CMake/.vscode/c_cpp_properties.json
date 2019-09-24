@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/Users/mrchip/Qt5.13.0/5.13.0/clang_64/lib",
+                "/Users/mrchip/Qt5.13.0/5.13.0/clang_64/lib/QtWidgets.framework/Headers",
+                "/Users/mrchip/Qt5.13.0/5.13.0/clang_64/lib/QtGui.framework/Headers",
+                "/Users/mrchip/Qt5.13.0/5.13.0/clang_64/lib/QtCore.framework/Headers",
+                "/Users/mrchip/Qt5.13.0/5.13.0/clang_64/./mkspecs/macx-clang",
+                "/System/Library/Frameworks/OpenGL.framework/Headers"
+            ],
+            "defines": [],
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks",
+                "/Users/mrchip/Qt5.13.0/5.13.0/clang_64/lib"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/**",
+                    "/Users/mrchip/Qt5.13.0/5.13.0/clang_64/lib/QtWidgets.framework/Headers",
+                    "/Users/mrchip/Qt5.13.0/5.13.0/clang_64/lib/QtGui.framework/Headers",
+                    "/Users/mrchip/Qt5.13.0/5.13.0/clang_64/lib/QtCore.framework/Headers",
+                    "/Users/mrchip/Qt5.13.0/5.13.0/clang_64/./mkspecs/macx-clang",
+                    "/System/Library/Frameworks/OpenGL.framework/Headers"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }
+    ],
+    "version": 4
+}

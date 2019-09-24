@@ -1,0 +1,20 @@
+{
+    "cmake.configureOnOpen": true,
+    // "C_Cpp.default.configurationProvider": "vector-of-bool.cmake-tools",
+    "files.associations": {
+        "qwidget": "cpp",
+        "qmainwindow": "cpp",
+        "qguiapplication": "cpp",
+        "ios": "cpp",
+        "qpushbutton": "cpp",
+        "qapplication": "cpp",
+        "qdebug": "cpp"
+    },
+    "C_Cpp.autocomplete": "Default",
+    "[cpp]": {
+        "editor.quickSuggestions": true
+    },
+    "[c]": {
+        "editor.quickSuggestions": true
+    },
+}
