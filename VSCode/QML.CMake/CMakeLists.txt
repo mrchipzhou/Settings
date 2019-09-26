@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.0.0)
 project(qml-painter-board VERSION 0.1.0)
 
 
-SET(CMAKE_PREFIX_PATH "/Users/mrchip/Qt5.13.0/5.13.0/clang_64")
+#SET(CMAKE_PREFIX_PATH "/Users/mrchip/Qt5.13.0/5.13.0/clang_64")
 
 set(CMAKE_INCLUDE_CURRENT_DIR ON)
 set(CMAKE_AUTOMOC ON)

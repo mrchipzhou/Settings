@@ -5,7 +5,18 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "qml-painter-board",
+            "name": "qml-painter-board-win32",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${command:cmake.launchTargetPath}",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false
+        },
+        {
+            "name": "qml-painter-board-mac",
             "type": "cppdbg",
             "request": "launch",
             "program": "${workspaceFolder}/build/qml-painter-board",
